@@ -488,7 +488,7 @@
       "idf": "",
       "netlist": "",
       "plot": "GERBER/",
-      "pos_files": "",
+      "pos_files": "BOM/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
